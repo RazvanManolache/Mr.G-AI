@@ -33,7 +33,7 @@ TODO: add larger description
 
 │       ├── [Kit for ComfyUI](https://github.com/RazvanManolache/Mr.G-Kit-ComfyUI)
 
-│       │ └── [Python embedded for ComfyUI](hhttps://github.com/RazvanManolache/Mr.G-Python-Embedded-ComfyUI)
+│       │ └── [Python embedded for ComfyUI](https://github.com/RazvanManolache/Mr.G-Python-Embedded-ComfyUI)
 
 │       └── [Kit for Automatic1111](https://github.com/RazvanManolache/Mr.G-Kit-Automatic1111) - NOT WORKING
 
